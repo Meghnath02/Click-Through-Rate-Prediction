@@ -5,9 +5,17 @@ By using four classification techniques, namely K Nearest Neighbor (KNN), Logist
 The study was performed on the Click-Through Rate Prediction Competition Dataset.
 
 #We will be following the process to solve this problem
+
 Data Collection
+
 Exploratory Data Analysis
+
 Data Cleaning
+
 Feature Engineering
+
 Model Training (including cross validation and hyperparameter tuning)
+
 Insights
+
+
