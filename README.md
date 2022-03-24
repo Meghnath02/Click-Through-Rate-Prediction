@@ -18,4 +18,6 @@ Model Training (including cross validation and hyperparameter tuning)
 
 Insights
 
+# DATA LINK: https://www.kaggle.com/c/avazu-ctr-prediction/data
+
 
