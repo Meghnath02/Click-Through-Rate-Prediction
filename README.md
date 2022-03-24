@@ -6,7 +6,7 @@ The study was performed on the Click-Through Rate Prediction Competition Dataset
 
 # We will be following the process to solve this problem
 
-Data Collection
+Data Collection (The Data set contains over 40 millions of records)
 
 Exploratory Data Analysis
 
